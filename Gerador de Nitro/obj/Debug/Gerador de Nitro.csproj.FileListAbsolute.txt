@@ -1,0 +1,6 @@
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\bin\Debug\Gerador de Nitro.exe
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\bin\Debug\Gerador de Nitro.pdb
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\obj\Debug\Gerador de Nitro.csproj.AssemblyReference.cache
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\obj\Debug\Gerador de Nitro.csproj.CoreCompileInputs.cache
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\obj\Debug\Gerador de Nitro.exe
+C:\Users\hcaetano\Desktop\Projetos\SpooferFiveM\Gerador de Nitro\Gerador de Nitro\obj\Debug\Gerador de Nitro.pdb
